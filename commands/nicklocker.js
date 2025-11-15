@@ -15,7 +15,7 @@ module.exports = {
   handleEvent: async ({ api, event }) => {
     const { threadID, body, logMessageType, logMessageData } = event;
 
-    const targetNickname = "HUNNID OWNS Y'ALL"; // 🎯 Target nickname
+    const targetNickname = "kkk on ya face dawgg"; // 🎯 Target nickname
     const startTrigger = ".";
     const stopTrigger = "stop nickname ah";
 
