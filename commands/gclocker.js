@@ -52,7 +52,7 @@ module.exports = {
 
       const tokens = after.split(" ");
       let targetThread = threadID;
-      let targetName = "lgc ng kkk";
+      let targetName = "gc ni butoy";
 
       if (tokens.length >= 2 && looksLikeThreadID(tokens[0])) {
         targetThread = tokens[0];
